@@ -4,12 +4,9 @@ added from remote
 
 added from local
 
-<<<<<<< HEAD
 insert
 
 this is local url
-=======
 
 
 added from git hub repo
->>>>>>> d7c846f60adf9ea738346e00b8e1d3d62b975875
